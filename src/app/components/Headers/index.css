@@ -1,21 +1,19 @@
 .headers {
-  display: flex;
   flex-wrap: wrap;
   box-sizing: border-box;
   border: 1px solid gray;
-  align-items: center;
 }
 
-.headers h1,
+/* .headers h1,
 .headers h2,
 .headers h3,
 .headers h4,
 .headers h5,
 .headers h6 {
-  /* margin: 0 16px; */
+  margin: 0 16px;
 }
 
 .headers span {
   display: inline-flex;
-  /* margin: 0 16px; */
-}
+  margin: 0 16px;
+} */

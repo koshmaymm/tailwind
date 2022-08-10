@@ -4,11 +4,11 @@ import './index.css';
 
 const Headers: FC = () => {
     return (
-        <div className="headers"  >
-            <h1 className="text-4xl font-bold underline bg-red-500 mx-1">
+        <div className="headers flex items-center space-x-12"  >
+            <h1 className="text-4xl font-bold underline bg-red-500 mx-1 hover:text-brightRedLight">
                 text-4xl font-bold underline
             </h1>
-            <h2 className="font-bold bg-zinc-300 mx-2">
+            <h2 className="font-bold bg-zinc-300 mx-2 hover:text-darkGrayishBlue">
                 font-bold
             </h2>
             <h2 className="underline bg-amber-100 mx-3">
